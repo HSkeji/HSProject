@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"小弟好好干");
+    NSLog(@"下个月开除你");
 }
 
 
